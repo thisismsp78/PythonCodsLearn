@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoginDemo", "LoginDemo\LoginDemo.pyproj", "{67A8B00A-7A30-4957-A06F-BA3C1541FEF8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HashDemo", "HashDemo\HashDemo.pyproj", "{8EDB8099-3753-4F6E-AB98-828F4B0F5D67}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "REDemo", "REDemo\REDemo.pyproj", "{9D5256F1-C88E-46D1-B2E4-5B396A35E205}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ExtractionDemo", "ExtractionDemo\ExtractionDemo.pyproj", "{6EE94A36-3944-4047-A448-72E7A2358681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A8B00A-7A30-4957-A06F-BA3C1541FEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A8B00A-7A30-4957-A06F-BA3C1541FEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDB8099-3753-4F6E-AB98-828F4B0F5D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDB8099-3753-4F6E-AB98-828F4B0F5D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5256F1-C88E-46D1-B2E4-5B396A35E205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5256F1-C88E-46D1-B2E4-5B396A35E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE94A36-3944-4047-A448-72E7A2358681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE94A36-3944-4047-A448-72E7A2358681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6FDD13D-1CB7-441D-9D86-9AC0210E350B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ORMDemo", "ORMDemo\ORMDemo.pyproj", "{1E7E5DC6-1DB2-48F7-AD78-9816DF1D731E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InheritanceDemo", "InheritanceDemo\InheritanceDemo.pyproj", "{BDB0C6DC-8078-43DA-9C10-6D0CE0C2959C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JSONDemo", "JSONDemo\JSONDemo.pyproj", "{EE159E54-7C73-4E14-800C-AFA346E55AD9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UploadDemo", "UploadDemo\UploadDemo.pyproj", "{670C2324-42D3-43FE-B0A0-1F275E9E96FB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ExportDemo", "ExportDemo\ExportDemo.pyproj", "{2341F368-5699-4AD8-A2B1-9723B6E859DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ImportDemo", "ImportDemo\ImportDemo.pyproj", "{4ADACE03-18A2-485B-95CB-15DAF93E2E34}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PDFDemo", "PDFDemo\PDFDemo.pyproj", "{9FE643A9-3D5B-4B88-A950-74BA37B8C860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7E5DC6-1DB2-48F7-AD78-9816DF1D731E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7E5DC6-1DB2-48F7-AD78-9816DF1D731E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB0C6DC-8078-43DA-9C10-6D0CE0C2959C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB0C6DC-8078-43DA-9C10-6D0CE0C2959C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE159E54-7C73-4E14-800C-AFA346E55AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE159E54-7C73-4E14-800C-AFA346E55AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670C2324-42D3-43FE-B0A0-1F275E9E96FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670C2324-42D3-43FE-B0A0-1F275E9E96FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2341F368-5699-4AD8-A2B1-9723B6E859DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2341F368-5699-4AD8-A2B1-9723B6E859DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADACE03-18A2-485B-95CB-15DAF93E2E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADACE03-18A2-485B-95CB-15DAF93E2E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE643A9-3D5B-4B88-A950-74BA37B8C860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE643A9-3D5B-4B88-A950-74BA37B8C860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1969B628-B154-4A20-9CC8-F5A8F16EF051}
+	EndGlobalSection
+EndGlobal

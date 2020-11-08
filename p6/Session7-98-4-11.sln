@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CompareDemo", "CompareDemo\CompareDemo.pyproj", "{9A93FD16-7BC2-4B93-9C87-4FABC06CD4FE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PhoneBookDemo", "PhoneBookDemo\PhoneBookDemo.pyproj", "{3E733DBA-40CB-4B07-8F50-18B430054C96}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReadDemo", "ReadDemo\ReadDemo.pyproj", "{133E5885-D571-4D7A-8BF2-321CAFAF64F9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TrimDemo", "TrimDemo\TrimDemo.pyproj", "{26B52944-3FBD-43EA-ACB7-8F07244E3E53}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OpenDemo", "OpenDemo\OpenDemo.pyproj", "{CE4A0416-8E12-4666-9F8F-92ABD1563A3B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TextDemo", "TextDemo\TextDemo.pyproj", "{04E4CC48-16EB-47EC-A16F-DD5F25C1B82F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FileSearchDemo", "FileSearchDemo\FileSearchDemo.pyproj", "{BDE436CB-D1A2-4F1E-9759-63ED1CB35B9B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SplitDemo", "SplitDemo\SplitDemo.pyproj", "{A5B30435-DF67-4A19-826B-1226DDF9756F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WriteDemo", "WriteDemo\WriteDemo.pyproj", "{56F4A298-3102-4FEA-8856-2E8BD61D4225}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinesDemo", "LinesDemo\LinesDemo.pyproj", "{AED505FE-C277-43AC-B1CF-45BE78F8F05F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FilePhoneBookDemo", "FilePhoneBookDemo\FilePhoneBookDemo.pyproj", "{D73BA422-6CB3-4F4E-BF42-0D542FA72FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A93FD16-7BC2-4B93-9C87-4FABC06CD4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A93FD16-7BC2-4B93-9C87-4FABC06CD4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E733DBA-40CB-4B07-8F50-18B430054C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E733DBA-40CB-4B07-8F50-18B430054C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133E5885-D571-4D7A-8BF2-321CAFAF64F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133E5885-D571-4D7A-8BF2-321CAFAF64F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B52944-3FBD-43EA-ACB7-8F07244E3E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B52944-3FBD-43EA-ACB7-8F07244E3E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4A0416-8E12-4666-9F8F-92ABD1563A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4A0416-8E12-4666-9F8F-92ABD1563A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E4CC48-16EB-47EC-A16F-DD5F25C1B82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E4CC48-16EB-47EC-A16F-DD5F25C1B82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE436CB-D1A2-4F1E-9759-63ED1CB35B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE436CB-D1A2-4F1E-9759-63ED1CB35B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B30435-DF67-4A19-826B-1226DDF9756F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B30435-DF67-4A19-826B-1226DDF9756F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F4A298-3102-4FEA-8856-2E8BD61D4225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F4A298-3102-4FEA-8856-2E8BD61D4225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED505FE-C277-43AC-B1CF-45BE78F8F05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED505FE-C277-43AC-B1CF-45BE78F8F05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73BA422-6CB3-4F4E-BF42-0D542FA72FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73BA422-6CB3-4F4E-BF42-0D542FA72FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACEB59B9-2165-417F-BC07-EE2A76C71FA4}
+	EndGlobalSection
+EndGlobal

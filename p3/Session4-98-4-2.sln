@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RandomDemo", "RandomDemo\RandomDemo.pyproj", "{A4C14C8C-CBA4-4BF5-A0E9-B9D8B95DFB8D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RangeDemo", "RangeDemo\RangeDemo.pyproj", "{15B29347-56E0-47E4-BD4F-4154530FB3A4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NegativeDemo", "NegativeDemo\NegativeDemo.pyproj", "{2DAB24E6-DC05-40A8-9909-8EEE016636D5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringDemo", "StringDemo\StringDemo.pyproj", "{6DD4051E-C666-4765-AAAA-8D80625C834A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TraverseDemo", "TraverseDemo\TraverseDemo.pyproj", "{F6113742-3632-44D4-8547-A3B884BB8032}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReverseDemo", "ReverseDemo\ReverseDemo.pyproj", "{C007A0D4-EAB1-4C55-8184-34A87838A493}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ComprehensionDemo", "ComprehensionDemo\ComprehensionDemo.pyproj", "{34CBC35F-88EB-4F9E-83C5-53C53BEEB21A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConditionDemo", "ConditionDemo\ConditionDemo.pyproj", "{1B5921A2-C263-407F-87BE-046141E3B6DB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NestedLoopsDemo", "NestedLoopsDemo\NestedLoopsDemo.pyproj", "{74EBD6D0-B2FF-42D1-82F6-EE4F9C0E4970}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NestedDemo", "NestedDemo\NestedDemo.pyproj", "{1DB050C9-6F5A-439F-ADD2-44692C234003}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SortDemo", "SortDemo\SortDemo.pyproj", "{A1681907-F169-40EF-940D-8DE8036FA2B5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringSortDemo", "StringSortDemo\StringSortDemo.pyproj", "{8755E6C3-84A8-4709-AE66-252452BD60FE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BubleSortDemo", "BubleSortDemo\BubleSortDemo.pyproj", "{C1F25415-844B-481B-AFA3-A152FBFFF82F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WhileDemo", "WhileDemo\WhileDemo.pyproj", "{48BF2C76-2FE8-4EA2-905F-E9CEFC259770}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MergeDemo", "MergeDemo\MergeDemo.pyproj", "{62130706-2F6A-425A-B34C-F5038196CCBE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NewMergeDemo", "NewMergeDemo\NewMergeDemo.pyproj", "{4B89CB5D-E4F5-414D-9F74-505129502E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C14C8C-CBA4-4BF5-A0E9-B9D8B95DFB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C14C8C-CBA4-4BF5-A0E9-B9D8B95DFB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B29347-56E0-47E4-BD4F-4154530FB3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B29347-56E0-47E4-BD4F-4154530FB3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAB24E6-DC05-40A8-9909-8EEE016636D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAB24E6-DC05-40A8-9909-8EEE016636D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD4051E-C666-4765-AAAA-8D80625C834A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD4051E-C666-4765-AAAA-8D80625C834A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6113742-3632-44D4-8547-A3B884BB8032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6113742-3632-44D4-8547-A3B884BB8032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C007A0D4-EAB1-4C55-8184-34A87838A493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C007A0D4-EAB1-4C55-8184-34A87838A493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CBC35F-88EB-4F9E-83C5-53C53BEEB21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CBC35F-88EB-4F9E-83C5-53C53BEEB21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5921A2-C263-407F-87BE-046141E3B6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5921A2-C263-407F-87BE-046141E3B6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EBD6D0-B2FF-42D1-82F6-EE4F9C0E4970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EBD6D0-B2FF-42D1-82F6-EE4F9C0E4970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB050C9-6F5A-439F-ADD2-44692C234003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB050C9-6F5A-439F-ADD2-44692C234003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1681907-F169-40EF-940D-8DE8036FA2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1681907-F169-40EF-940D-8DE8036FA2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8755E6C3-84A8-4709-AE66-252452BD60FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8755E6C3-84A8-4709-AE66-252452BD60FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F25415-844B-481B-AFA3-A152FBFFF82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F25415-844B-481B-AFA3-A152FBFFF82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BF2C76-2FE8-4EA2-905F-E9CEFC259770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BF2C76-2FE8-4EA2-905F-E9CEFC259770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62130706-2F6A-425A-B34C-F5038196CCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62130706-2F6A-425A-B34C-F5038196CCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B89CB5D-E4F5-414D-9F74-505129502E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B89CB5D-E4F5-414D-9F74-505129502E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F987C792-5309-4BF8-BFA4-97754774BEC8}
+	EndGlobalSection
+EndGlobal

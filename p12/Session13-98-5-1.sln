@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RSSDemo", "RSSDemo\RSSDemo.pyproj", "{C7961243-0236-46C5-8525-19629FCC7DA4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "XMLDemo", "XMLDemo\XMLDemo.pyproj", "{27B8DF9B-5203-473F-B0DD-8BF061E8759E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringDemo", "StringDemo\StringDemo.pyproj", "{F3E86464-E0CA-4A5A-8654-3B92430406EE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "XMLRSSDemo", "XMLRSSDemo\XMLRSSDemo.pyproj", "{D778DFCC-6B91-4AF7-8E1C-92799D083A36}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TraverseDemo", "TraverseDemo\TraverseDemo.pyproj", "{C460C896-AB3C-4BBB-9AC1-F71C049E3C38}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ParserDemo", "ParserDemo\ParserDemo.pyproj", "{07B8E128-4899-463A-B9B1-5471D5031E28}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PasswordDemo", "PasswordDemo\PasswordDemo.pyproj", "{23185260-C097-4070-9AD3-4CE36B37BF23}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoginDemo", "LoginDemo\LoginDemo.pyproj", "{7AF58DFA-96E3-4E7C-B5E9-51C5D7C37221}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BinaryDemo", "BinaryDemo\BinaryDemo.pyproj", "{F81135B5-3AEC-4A30-A55E-413B724B3C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7961243-0236-46C5-8525-19629FCC7DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7961243-0236-46C5-8525-19629FCC7DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B8DF9B-5203-473F-B0DD-8BF061E8759E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B8DF9B-5203-473F-B0DD-8BF061E8759E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E86464-E0CA-4A5A-8654-3B92430406EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E86464-E0CA-4A5A-8654-3B92430406EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D778DFCC-6B91-4AF7-8E1C-92799D083A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D778DFCC-6B91-4AF7-8E1C-92799D083A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C460C896-AB3C-4BBB-9AC1-F71C049E3C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C460C896-AB3C-4BBB-9AC1-F71C049E3C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B8E128-4899-463A-B9B1-5471D5031E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B8E128-4899-463A-B9B1-5471D5031E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23185260-C097-4070-9AD3-4CE36B37BF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23185260-C097-4070-9AD3-4CE36B37BF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF58DFA-96E3-4E7C-B5E9-51C5D7C37221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF58DFA-96E3-4E7C-B5E9-51C5D7C37221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81135B5-3AEC-4A30-A55E-413B724B3C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81135B5-3AEC-4A30-A55E-413B724B3C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906C9524-ACA3-453E-A497-E29484EB6798}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ListDemo", "ListDemo\ListDemo.pyproj", "{9295D499-ACC8-4A5F-ABEA-C3F035520CB5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TuppleDemo", "TuppleDemo\TuppleDemo.pyproj", "{43FED163-9A31-452B-81BF-6F84A36AE3C7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SetDemo", "SetDemo\SetDemo.pyproj", "{4134A065-E6D6-494D-B652-E63ADF1E26F0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.pyproj", "{91E93D6A-C36F-4CBB-8D3E-FAD4BB63E9FA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZipDemo", "ZipDemo\ZipDemo.pyproj", "{4EFE5EF5-6088-4441-A2D0-269C0DE026CC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DeleteDemo", "DeleteDemo\DeleteDemo.pyproj", "{82A2BD9A-A95D-4D1E-9B6E-6A94D1F66575}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FunctionDemo", "FunctionDemo\FunctionDemo.pyproj", "{38C8ED03-817E-4536-8ADA-94CC3E21A2F7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReturnDemo", "ReturnDemo\ReturnDemo.pyproj", "{EABBCF7F-FE56-430D-BD3F-4D69616BC89E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ParameterDemo", "ParameterDemo\ParameterDemo.pyproj", "{7B1B1736-E98A-410F-90E8-6597275C1845}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StarDemo", "StarDemo\StarDemo.pyproj", "{1AF867F8-A1AE-444C-B79D-03F38332F2EF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SearchDemo", "SearchDemo\SearchDemo.pyproj", "{1DF0E61D-623B-4E00-BB74-7E04409704D3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RecursiveDemo", "RecursiveDemo\RecursiveDemo.pyproj", "{1AE508D8-D55F-4D9C-B571-E2C27BE2AFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9295D499-ACC8-4A5F-ABEA-C3F035520CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9295D499-ACC8-4A5F-ABEA-C3F035520CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FED163-9A31-452B-81BF-6F84A36AE3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FED163-9A31-452B-81BF-6F84A36AE3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4134A065-E6D6-494D-B652-E63ADF1E26F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4134A065-E6D6-494D-B652-E63ADF1E26F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E93D6A-C36F-4CBB-8D3E-FAD4BB63E9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E93D6A-C36F-4CBB-8D3E-FAD4BB63E9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFE5EF5-6088-4441-A2D0-269C0DE026CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFE5EF5-6088-4441-A2D0-269C0DE026CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A2BD9A-A95D-4D1E-9B6E-6A94D1F66575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A2BD9A-A95D-4D1E-9B6E-6A94D1F66575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C8ED03-817E-4536-8ADA-94CC3E21A2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C8ED03-817E-4536-8ADA-94CC3E21A2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABBCF7F-FE56-430D-BD3F-4D69616BC89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABBCF7F-FE56-430D-BD3F-4D69616BC89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1B1736-E98A-410F-90E8-6597275C1845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1B1736-E98A-410F-90E8-6597275C1845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF867F8-A1AE-444C-B79D-03F38332F2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF867F8-A1AE-444C-B79D-03F38332F2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF0E61D-623B-4E00-BB74-7E04409704D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF0E61D-623B-4E00-BB74-7E04409704D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE508D8-D55F-4D9C-B571-E2C27BE2AFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE508D8-D55F-4D9C-B571-E2C27BE2AFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86D460F-EA38-483C-9248-5F5E9A6D4C4B}
+	EndGlobalSection
+EndGlobal

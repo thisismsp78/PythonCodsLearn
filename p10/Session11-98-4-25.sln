@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CSVToDBDemo", "CSVToDBDemo\CSVToDBDemo.pyproj", "{F1AFE342-33D5-4A62-8BCF-CCF0564DFCAA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DBToCSVDemo", "DBToCSVDemo\DBToCSVDemo.pyproj", "{6CF1A24F-33C3-4A3F-BC4D-4E05256F2621}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DBToJSONDemo", "DBToJSONDemo\DBToJSONDemo.pyproj", "{D817E445-FE6F-45F4-A9F6-CF53FCAF932D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZipDemo", "ZipDemo\ZipDemo.pyproj", "{9E761EF4-AC70-412D-B44F-A0C0D7A6D797}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JSONToDBDemo", "JSONToDBDemo\JSONToDBDemo.pyproj", "{C58223D8-7232-4A1C-8221-DD74F451779D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoginDemo", "LoginDemo\LoginDemo.pyproj", "{AE884313-C0D2-40FB-AB45-56C768F4A30C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HashDemo", "HashDemo\HashDemo.pyproj", "{CC344436-3E52-46BA-9933-792413250B88}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BinaryDemo", "BinaryDemo\BinaryDemo.pyproj", "{8ED9DD68-D625-4177-A327-D58A7983635C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AFE342-33D5-4A62-8BCF-CCF0564DFCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AFE342-33D5-4A62-8BCF-CCF0564DFCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF1A24F-33C3-4A3F-BC4D-4E05256F2621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF1A24F-33C3-4A3F-BC4D-4E05256F2621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D817E445-FE6F-45F4-A9F6-CF53FCAF932D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D817E445-FE6F-45F4-A9F6-CF53FCAF932D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E761EF4-AC70-412D-B44F-A0C0D7A6D797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E761EF4-AC70-412D-B44F-A0C0D7A6D797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58223D8-7232-4A1C-8221-DD74F451779D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58223D8-7232-4A1C-8221-DD74F451779D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE884313-C0D2-40FB-AB45-56C768F4A30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE884313-C0D2-40FB-AB45-56C768F4A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC344436-3E52-46BA-9933-792413250B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC344436-3E52-46BA-9933-792413250B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED9DD68-D625-4177-A327-D58A7983635C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED9DD68-D625-4177-A327-D58A7983635C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EE651B-4337-4359-B974-ADD06AEBB6AB}
+	EndGlobalSection
+EndGlobal

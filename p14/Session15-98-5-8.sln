@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GridDemo", "GridDemo\GridDemo.pyproj", "{91C18A55-D16F-4B23-B6AE-0731F01BCF8E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ListDemo", "ListDemo\ListDemo.pyproj", "{7A8155EA-9C69-4FBD-9ED9-407AC42CAD4D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PackDemo", "PackDemo\PackDemo.pyproj", "{2F550258-0BBA-4F91-AC17-E85CFCAB4A94}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ListItemDemo", "ListItemDemo\ListItemDemo.pyproj", "{34239399-44F5-434D-9216-B839F3E0A70E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PhotoDemo", "PhotoDemo\PhotoDemo.pyproj", "{EB8A0F80-D9E2-495C-8821-3BD9CA087460}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WeatherDemo", "WeatherDemo\WeatherDemo.pyproj", "{A8BD13B8-332F-4BDB-A480-FB8324AA78EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C18A55-D16F-4B23-B6AE-0731F01BCF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C18A55-D16F-4B23-B6AE-0731F01BCF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8155EA-9C69-4FBD-9ED9-407AC42CAD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8155EA-9C69-4FBD-9ED9-407AC42CAD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F550258-0BBA-4F91-AC17-E85CFCAB4A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F550258-0BBA-4F91-AC17-E85CFCAB4A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34239399-44F5-434D-9216-B839F3E0A70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34239399-44F5-434D-9216-B839F3E0A70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8A0F80-D9E2-495C-8821-3BD9CA087460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8A0F80-D9E2-495C-8821-3BD9CA087460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BD13B8-332F-4BDB-A480-FB8324AA78EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BD13B8-332F-4BDB-A480-FB8324AA78EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B0995F-4F31-4A3B-A18D-DACCF5B5BB02}
+	EndGlobalSection
+EndGlobal

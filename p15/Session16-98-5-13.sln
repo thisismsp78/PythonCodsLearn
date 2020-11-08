@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ORMDemo", "ORMDemo\ORMDemo.pyproj", "{72FF07F7-0607-4E20-A40F-BBCA836D4675}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OptionalDemo", "OptionalDemo\OptionalDemo.pyproj", "{9C461A6A-7BC5-4AF8-9DC4-ED90726A0773}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InsertDemo", "InsertDemo\InsertDemo.pyproj", "{EE6DA06F-F60D-475C-A593-C2F4E0F3B416}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InsertUserDemo", "InsertUserDemo\InsertUserDemo.pyproj", "{9DD35DF4-0427-4F1E-B759-6FFAEB8BA572}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DbDemo", "DbDemo\DbDemo.pyproj", "{1F8844EC-5B80-4E82-9043-ED2B8B0A6D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FF07F7-0607-4E20-A40F-BBCA836D4675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FF07F7-0607-4E20-A40F-BBCA836D4675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C461A6A-7BC5-4AF8-9DC4-ED90726A0773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C461A6A-7BC5-4AF8-9DC4-ED90726A0773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6DA06F-F60D-475C-A593-C2F4E0F3B416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6DA06F-F60D-475C-A593-C2F4E0F3B416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD35DF4-0427-4F1E-B759-6FFAEB8BA572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD35DF4-0427-4F1E-B759-6FFAEB8BA572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8844EC-5B80-4E82-9043-ED2B8B0A6D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8844EC-5B80-4E82-9043-ED2B8B0A6D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09269E7C-E907-4E7D-B12E-B1BFF512461C}
+	EndGlobalSection
+EndGlobal
